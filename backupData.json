@@ -1,0 +1,308 @@
+{
+  "info": {
+    "publicID": {
+      "address": 33685504,
+      "type": "<u2"
+    },
+    "secretID": {
+      "address": 33685506, 
+      "type": "<u2"
+    }
+    "attack1": {
+      "address": 33703238,
+      "type": "<u2"
+    },
+    "attack2": {
+      "address": 33703338,
+      "type": "<u2"
+    },
+    "attack3": {
+      "address": 33703438,
+      "type": "<u2"
+    },
+    "attack4": {
+      "address": 33703538,
+      "type": "<u2"
+    },
+    "attack5": {
+      "address": 33703638,
+      "type": "<u2"
+    },
+    "attack6": {
+      "address": 33703738,
+      "type": "<u2"
+    },
+    "defense1": {
+      "address": 33703240,
+      "type": "<u2"
+    },
+    "defense2": {
+      "address": 33703340,
+      "type": "<u2"
+    },
+    "defense3": {
+      "address": 33703440,
+      "type": "<u2"
+    },
+    "defense4": {
+      "address": 33703540,
+      "type": "<u2"
+    },
+    "defense5": {
+      "address": 33703640,
+      "type": "<u2"
+    },
+    "defense6": {
+      "address": 33703740,
+      "type": "<u2"
+    },
+    "health1": {
+      "address": 33703234,
+      "type": "<u2"
+    },
+    "health2": {
+      "address": 33703334,
+      "type": "<u2"
+    },
+    "health3": {
+      "address": 33703434,
+      "type": "<u2"
+    },
+    "health4": {
+      "address": 33703534,
+      "type": "<u2"
+    },
+    "health5": {
+      "address": 33703634,
+      "type": "<u2"
+    },
+    "health6": {
+      "address": 33703734,
+      "type": "<u2"
+    },
+    "spAtk1": {
+      "address": 33703244,
+      "type": "<u2"
+    },
+    "spAtk2": {
+      "address": 33703344,
+      "type": "<u2"
+    },
+    "spAtk3": {
+      "address": 33703444,
+      "type": "<u2"
+    },
+    "spAtk4": {
+      "address": 33703544,
+      "type": "<u2"
+    },
+    "spAtk5": {
+      "address": 33703644,
+      "type": "<u2"
+    },
+    "spAtk6": {
+      "address": 33703744,
+      "type": "<u2"
+    },
+    "spDef1": {
+      "address": 33703246,
+      "type": "<u2"
+    },
+    "spDef2": {
+      "address": 33703346,
+      "type": "<u2"
+    },
+    "spDef3": {
+      "address": 33703446,
+      "type": "<u2"
+    },
+    "spDef4": {
+      "address": 33703546,
+      "type": "<u2"
+    },
+    "spDef5": {
+      "address": 33703646,
+      "type": "<u2"
+    },
+    "spDef6": {
+      "address": 33703746,
+      "type": "<u2"
+    },
+    "speed1": {
+      "address": 33703242,
+      "type": "<u2"
+    },
+    "speed2": {
+      "address": 33703342,
+      "type": "<u2"
+    },
+    "speed3": {
+      "address": 33703442,
+      "type": "<u2"
+    },
+    "speed4": {
+      "address": 33703542,
+      "type": "<u2"
+    },
+    "speed5": {
+      "address": 33703642,
+      "type": "<u2"
+    },
+    "speed6": {
+      "address": 33703742,
+      "type": "<u2"
+    },
+    "pv1A": {
+      "address": 33703148, 
+      "type": "<u4"
+    },
+    "pv1B": {
+      "address": 33703150, 
+      "type": "<u4"
+    },
+    "pv2A": {
+      "address": 33703248, 
+      "type": "<u4"
+    },
+    "pv2B": {
+      "address": 33703250, 
+      "type": "<u4"
+    },
+    "pv3A": {
+      "address": 33703348, 
+      "type": "<u4"
+    },
+    "pv3B": {
+      "address": 33703350, 
+      "type": "<u4"
+    },
+    "pv4A": {
+      "address": 33703448, 
+      "type": "<u4"
+    },
+    "pv4B": {
+      "address": 33703450, 
+      "type": "<u4"
+    },
+    "pv5A": {
+      "address": 33703548, 
+      "type": "<u4"
+    },
+    "pv5B": {
+      "address": 33703550, 
+      "type": "<u4"
+    },
+    "pv6A": {
+      "address": 33703648, 
+      "type": "<u4"
+    },
+    "pv6B": {
+      "address": 33703650, 
+      "type": "<u4"
+    },
+    "substructure1A": {
+      "address": 33703180, 
+       "type": "<u12"
+    },
+    "substructure1B": {
+      "address": 33703192, 
+       "type": "<u12"
+    },
+    "substructure1C": {
+      "address": 33703204, 
+       "type": "<u12"
+    },
+    "substructure1D": {
+      "address": 33703216, 
+       "type": "<u12"
+    },
+    "substructure2A": {
+      "address": 33703280, 
+       "type": "<u12"
+    },
+    "substructure2B": {
+      "address": 33703292, 
+       "type": "<u12"
+    },
+    "substructure2C": {
+      "address": 33703304, 
+       "type": "<u12"
+    },
+    "substructure2D": {
+      "address": 33703316, 
+       "type": "<u12"
+    },
+    "substructure3A": {
+      "address": 33703380, 
+       "type": "<u12"
+    },
+    "substructure3B": {
+      "address": 33703392, 
+       "type": "<u12"
+    },
+    "substructure3C": {
+      "address": 33703404, 
+       "type": "<u12"
+    },
+    "substructure3D": {
+      "address": 33703416, 
+       "type": "<u12"
+    },
+    "substructure4A": {
+      "address": 33703480, 
+       "type": "<u12"
+    },
+    "substructure4B": {
+      "address": 33703492, 
+       "type": "<u12"
+    },
+    "substructure4C": {
+      "address": 33703504, 
+       "type": "<u12"
+    },
+    "substructure4D": {
+      "address": 33703516, 
+       "type": "<u12"
+    },
+    "substructure5A": {
+      "address": 33703580, 
+       "type": "<u12"
+    },
+    "substructure5B": {
+      "address": 33703592, 
+       "type": "<u12"
+    },
+    "substructure5C": {
+      "address": 33703604, 
+       "type": "<u12"
+    },
+    "substructure5D": {
+      "address": 33703616, 
+       "type": "<u12"
+    },
+    "substructure6A": {
+      "address": 33703680, 
+       "type": "<12"
+    },
+    "substructure6B": {
+      "address": 33703692, 
+       "type": "<u12"
+    },
+    "substructure6C": {
+      "address": 33703704, 
+       "type": "<u12"
+    },
+    "substructure6D": {
+      "address": 33703716, 
+       "type": "<u12"
+    },
+    "xPos": {
+      "address": 50333740,
+      "type": "<i2"
+    },
+    "yPos": {
+      "address": 50355688,
+      "type": "<i2"
+    }
+  }
+}
